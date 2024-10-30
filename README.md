@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | 📍 MSSE Student @ San Jose State University | 🌐 Building meaningful digital solutions</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/reetkhanchandani](https://www.linkedin.com/in/reet-khanchandani-791a661a4/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/reet-khanchandani-791a661a4/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/reet-571099" target="blank"><img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:khanchandani.reet@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
