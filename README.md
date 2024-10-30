@@ -60,7 +60,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reet-571099&show_icons=true&locale=en&layout=compact" alt="Reet's GitHub stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reet-571099&show_icons=true&locale=en" alt="Reet's GitHub stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reet-571099&theme=cobalt&" alt="Reet's GitHub stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reet-571099" alt="Reet's GitHub stats" /></p>
 
 ---
 
